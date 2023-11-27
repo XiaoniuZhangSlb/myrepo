@@ -1,5 +1,5 @@
 # Guideline
 # Task assigment
-[ ] Task 1
-[x] Task 2
+- [ ] Task 1
+- [x] Task 2
 
